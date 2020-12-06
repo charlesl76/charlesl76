@@ -13,7 +13,7 @@
 ![Javascript](http://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000) ![Python](http://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=javascript&logoColor=ffffff) ![Langage C](http://img.shields.io/badge/-Langage%20C-a8b9cc?style=for-the-badge&logo=c&logoColor=000000) ![PHP](http://img.shields.io/badge/-PHP-777bb4?style=for-the-badge&logo=php&logoColor=ffffff)
 
 - Outils :  
-![Postman](img.shields.io/badge/-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=ffffff) ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff) ![Git](img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Postman](http://img.shields.io/badge/-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=ffffff) ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff) ![Git](http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 - Environnement de développement (IDE) :  
 ![PyCharm](http://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=ffffff) ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
